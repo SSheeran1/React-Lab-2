@@ -1,0 +1,13 @@
+.PostForm {
+  display: flex;
+  background-color: #79c5e8;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  left: 300px;
+}
+
+.PostForm .form-container {
+  display: flex;
+  flex-direction: column;
+}
